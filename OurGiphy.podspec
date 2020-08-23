@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name = 'Giphy'
+    s.name = 'OurGiphy'
     s.module_name = 'Giphy'
     s.version = '2.0.2'
     s.summary = 'Giphy'
